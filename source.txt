@@ -1,0 +1,12 @@
+module (a, b, c) {
+    function doSomething(){
+        x = 2;
+        y += 2;
+        function nestedFunction(){
+
+        };
+
+        x = nestedFunction();
+    };
+    function doSomethingElse();
+}
