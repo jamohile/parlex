@@ -1,7 +1,7 @@
 #include "FunctionParser.hpp"
 #include "ArgumentListParser.hpp"
 #include "BlockParser.hpp"
-#include "LiteralParser.hpp"
+#include "../core/LiteralParser.hpp"
 
 FunctionParser::FunctionParser(){};
 FunctionParser::~FunctionParser(){};

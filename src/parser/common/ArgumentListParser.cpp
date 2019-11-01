@@ -1,6 +1,6 @@
 #include "ArgumentListParser.hpp"
-#include "LiteralParser.hpp"
-#include "../elements/core/LiteralElement.hpp"
+#include "../core/LiteralParser.hpp"
+#include "../../elements/core/LiteralElement.hpp"
 #include <iostream>
 
 /** Provides argument list parsing, which could be used by things like if statements, functions, etc.

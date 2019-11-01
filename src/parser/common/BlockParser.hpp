@@ -1,7 +1,7 @@
 #ifndef BLOCKPARSER_HPP
 #define BLOCKPARSER_HPP
 
-#include "CollectionParser.hpp"
+#include "../core/CollectionParser.hpp"
 
 /**
  * Used to parse generic "block style" constructs, such as function bodies.

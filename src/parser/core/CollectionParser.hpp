@@ -2,7 +2,7 @@
 #define COLLECTIONPARSER_HPP
 
 #include <string>
-#include "../elements/core/CollectionElement.hpp"
+#include "../../elements/core/CollectionElement.hpp"
 #include "Parser.hpp"
 
 /** Arguably the most important parser, since most things derive from collection.

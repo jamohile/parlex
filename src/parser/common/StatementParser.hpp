@@ -1,8 +1,8 @@
 #ifndef STATEMENTPARSER_HPP
 #define STATEMENTPARSER_HPP
 
-#include "Parser.hpp"
-#include "CollectionParser.hpp"
+#include "../core/Parser.hpp"
+#include "../core/CollectionParser.hpp"
 
 /* Parses an individual statement, usually ";" delimited.
 * This is very useful in parser development,

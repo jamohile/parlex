@@ -1,4 +1,4 @@
-# ParleX (Parser - Lexer)
+# Parlex (Parser - Lexer)
 This package consumes an input of (c-like) code and generates an abstract syntax tree (AST). The work is at a very early stage, and not all language constructs are supported.
 
 ## Target Language

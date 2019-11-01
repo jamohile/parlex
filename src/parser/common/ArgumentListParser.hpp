@@ -1,8 +1,8 @@
 #ifndef ARGUMENTLISTPARSER_HPP
 #define ARGUMENTLISTPARSER_HPP
 
-#include "CollectionParser.hpp"
-#include "../elements/core/CollectionElement.hpp"
+#include "../core/CollectionParser.hpp"
+#include "../../elements/core/CollectionElement.hpp"
 
 /* Parses a generic list of arguments. 
    As this is a work in progress, it only supports lists of style (a, b, c) etc.

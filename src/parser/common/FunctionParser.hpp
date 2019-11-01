@@ -1,8 +1,8 @@
 #ifndef FUNCTIONPARSER_HPP
 #define FUNCTIONPARSER_HPP
 
-#include "Parser.hpp"
-#include "../elements/FunctionElement.hpp"
+#include "../core/Parser.hpp"
+#include "../../elements/FunctionElement.hpp"
 
 class FunctionParser : public Parser {
     public: 

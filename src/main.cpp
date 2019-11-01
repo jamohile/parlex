@@ -1,5 +1,5 @@
 #include "./lexer/lexer.hpp"
-#include "./parser/RootParser.hpp"
+#include "./parser/common/RootParser.hpp"
 #include "./elements/core/CollectionElement.hpp"
 
 int main(int argc, char ** argv){
